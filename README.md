@@ -5,7 +5,7 @@ This is my software development portfolio.
 
 **Link to project:** https://staceyali.netlify.app
 
-![portfolio image](img/portfolio.png)
+![portfolio image](img/Portfolio.png)
 
 ## How It's Made:
 
