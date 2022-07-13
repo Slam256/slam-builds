@@ -1,33 +1,21 @@
-This Sid my portfolio website. I used a template details below.
+# My Portfolio
 
+This is my software development portfolio. 
 
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+**Link to project:** https://staceyali.netlify.app
 
+![portfolio image](img/portfolio.png)
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+## How It's Made:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+**Tech used:** HTML, CSS, JavaScript, and delpoyed this on netlify
 
-(* = not included)
+I built this portfolio as an avenue to showcase what I have been working on. It is front-end website that is well linked to some clients who have graciously allowed me to share and a few personal projects,
 
-AJ
-aj@lkn.io | @ajlkn
+## Optimizations
+If i were to build this portfolio again I would probably use the react framework to build this. This is because I find that it is simple and it has excellent cross-platfrom support. 
 
+## Lessons Learned:
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+I learned that inorder to build a successful site, I need to start with the end in mind. 
+I also learned to always set deadlines for finishing projects.
